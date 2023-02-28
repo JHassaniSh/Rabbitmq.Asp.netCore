@@ -1,0 +1,12 @@
+D:\Sample Projects\Rabbitmq\RabbitMq-master\RabbitMq-master\RabbitMq\RabbitMq.Common\bin\Debug\net5.0\RabbitMq.Common.deps.json
+D:\Sample Projects\Rabbitmq\RabbitMq-master\RabbitMq-master\RabbitMq\RabbitMq.Common\bin\Debug\net5.0\RabbitMq.Common.dll
+D:\Sample Projects\Rabbitmq\RabbitMq-master\RabbitMq-master\RabbitMq\RabbitMq.Common\bin\Debug\net5.0\ref\RabbitMq.Common.dll
+D:\Sample Projects\Rabbitmq\RabbitMq-master\RabbitMq-master\RabbitMq\RabbitMq.Common\bin\Debug\net5.0\RabbitMq.Common.pdb
+D:\Sample Projects\Rabbitmq\RabbitMq-master\RabbitMq-master\RabbitMq\RabbitMq.Common\obj\Debug\net5.0\RabbitMq.Common.csproj.AssemblyReference.cache
+D:\Sample Projects\Rabbitmq\RabbitMq-master\RabbitMq-master\RabbitMq\RabbitMq.Common\obj\Debug\net5.0\RabbitMq.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sample Projects\Rabbitmq\RabbitMq-master\RabbitMq-master\RabbitMq\RabbitMq.Common\obj\Debug\net5.0\RabbitMq.Common.AssemblyInfoInputs.cache
+D:\Sample Projects\Rabbitmq\RabbitMq-master\RabbitMq-master\RabbitMq\RabbitMq.Common\obj\Debug\net5.0\RabbitMq.Common.AssemblyInfo.cs
+D:\Sample Projects\Rabbitmq\RabbitMq-master\RabbitMq-master\RabbitMq\RabbitMq.Common\obj\Debug\net5.0\RabbitMq.Common.csproj.CoreCompileInputs.cache
+D:\Sample Projects\Rabbitmq\RabbitMq-master\RabbitMq-master\RabbitMq\RabbitMq.Common\obj\Debug\net5.0\RabbitMq.Common.dll
+D:\Sample Projects\Rabbitmq\RabbitMq-master\RabbitMq-master\RabbitMq\RabbitMq.Common\obj\Debug\net5.0\ref\RabbitMq.Common.dll
+D:\Sample Projects\Rabbitmq\RabbitMq-master\RabbitMq-master\RabbitMq\RabbitMq.Common\obj\Debug\net5.0\RabbitMq.Common.pdb
